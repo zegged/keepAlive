@@ -1,0 +1,1 @@
+kill -SIGQUIT `pgrep ping`
